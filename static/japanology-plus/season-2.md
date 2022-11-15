@@ -9,38 +9,38 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="weekend-japanology/season-1">1</a></td>
-<td><a href="begin-japanology/season-1">1</a></td>
-<td><a href="japanology-plus/season-1">1</a></td>
+<td><a href="../weekend-japanology/season-1">1</a></td>
+<td><a href="../begin-japanology/season-1">1</a></td>
+<td><a href="../japanology-plus/season-1">1</a></td>
 </tr>
 <tr>
-<td><a href="weekend-japanology/season-2">2</a></td>
-<td><a href="begin-japanology/season-2">2</a></td>
-<td><a href="japanology-plus/season-2">2</a></td>
-</tr>
-<tr>
-<td></td>
-<td><a href="begin-japanology/season-3">3</a></td>
-<td><a href="japanology-plus/season-3">3</a></td>
+<td><a href="../weekend-japanology/season-2">2</a></td>
+<td><a href="../begin-japanology/season-2">2</a></td>
+<td><a href="../japanology-plus/season-2">2</a></td>
 </tr>
 <tr>
 <td></td>
-<td><a href="begin-japanology/season-4">4</a></td>
-<td><a href="japanology-plus/season-4">4</a></td>
+<td><a href="../begin-japanology/season-3">3</a></td>
+<td><a href="../japanology-plus/season-3">3</a></td>
 </tr>
 <tr>
 <td></td>
-<td><a href="begin-japanology/season-5">5</a></td>
-<td><a href="japanology-plus/season-5">5</a></td>
+<td><a href="../begin-japanology/season-4">4</a></td>
+<td><a href="../japanology-plus/season-4">4</a></td>
 </tr>
 <tr>
 <td></td>
-<td><a href="begin-japanology/season-6">6</a></td>
+<td><a href="../begin-japanology/season-5">5</a></td>
+<td><a href="../japanology-plus/season-5">5</a></td>
+</tr>
+<tr>
+<td></td>
+<td><a href="../begin-japanology/season-6">6</a></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td><a href="begin-japanology/season-7">7</a></td>
+<td><a href="../begin-japanology/season-7">7</a></td>
 <td></td>
 </tr>
 </tbody>
